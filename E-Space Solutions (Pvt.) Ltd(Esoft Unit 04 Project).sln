@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Space Solutions (Pvt.) Ltd(Esoft Unit 04 Project)", "E-Space Solutions (Pvt.) Ltd(Esoft Unit 04 Project)\E-Space Solutions (Pvt.) Ltd(Esoft Unit 04 Project).csproj", "{AE979028-6A87-4391-8C88-BC3AFB70299E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE979028-6A87-4391-8C88-BC3AFB70299E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE979028-6A87-4391-8C88-BC3AFB70299E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE979028-6A87-4391-8C88-BC3AFB70299E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE979028-6A87-4391-8C88-BC3AFB70299E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2513CBC-5F25-406C-8F56-F6E5AE30BC15}
+	EndGlobalSection
+EndGlobal
